@@ -8,7 +8,7 @@
   ],
   "license": "MIT",
   "require": {
-    "laravel/framework": "^6.0 || ^7.0",
+    "laravel/framework": "^6.0 || ^7.0 || ^8.0",
     "laravel/ui": "^1.2 || ^2.0"
   },
   "autoload": {
